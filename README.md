@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adithyajain27
+- 👋 Hi, I’m #rgb(100,100,100)**@adithyajain27**
 - 👀 I’m interested in
   * software developement,
   * programing,
