@@ -23,11 +23,11 @@
 
   
 - 📫 you can reach me through my
-  * linkedin profile
-  * through email.
+  * linkedin profile [here](linkedin.com/in/adithya-jain-m-s)
+  * through email [here](adithyajain27@gmail.com)
   
   
-  **👀 you can see my certificates in my linkedin profile**
+  **👀 you can see my certificates in my l[inkedin profile](linkedin.com/in/adithya-jain-m-s)**
  
     
 
