@@ -6,7 +6,7 @@
   * songs,
   * books,
   * games
-  * travelling
+  * travelling.
     
 - ✌️i have knowledge about **AGILE SOFTWARE DEVELOPMENT** 
    
