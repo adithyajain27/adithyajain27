@@ -24,10 +24,10 @@
   
 - 📫 you can reach me through my
   * linkedin profile [here](https://linkedin.com/in/adithya-jain-m-s)
-  * through email [here](adithyajain27@gmail.com)
+  * through email (in my repository)
   
   
-  **👀 you can see my certificates in my l[inkedin profile](linkedin.com/in/adithya-jain-m-s)**
+  **👀 you can see my certificates in my l[inkedin profile](https://linkedin.com/in/adithya-jain-m-s)**
  
     
 
