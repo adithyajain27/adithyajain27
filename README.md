@@ -1,6 +1,6 @@
-## 👋 Hi, I’m @adithyajain27
-## 👀 I’m interested in
-  * developement,
+- 👋 Hi, I’m @adithyajain27
+- 👀 I’m interested in
+  * software developement,
   * programing,
   * movies,
   * songs,
