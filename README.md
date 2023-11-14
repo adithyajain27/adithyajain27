@@ -18,7 +18,7 @@
   * cpp
 
     
-[!note] 💞️ I’m looking to
+[!NOTE] 💞️ I’m looking to
      collaborate with companies to become one of them and work with them for solving problems and creating solutions and improvising the created solution
 ## 📫 you can reach me through my
   * linkedin profile
