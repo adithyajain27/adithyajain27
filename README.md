@@ -23,7 +23,7 @@
 
   
 - 📫 you can reach me through my
-  * linkedin profile [here](linkedin.com/in/adithya-jain-m-s)
+  * linkedin profile [here](https://linkedin.com/in/adithya-jain-m-s)
   * through email [here](adithyajain27@gmail.com)
   
   
