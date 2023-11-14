@@ -8,6 +8,9 @@
   * games
   * travelling
     
+ ✌️i have knowledge about **AGILE SOFTWARE DEVELOPMENT** 
+   
+    
 - 🌱 I’m currently learning
 - * python,
   * java,
@@ -17,6 +20,11 @@
 - 📫 you can reach me through my
 - * linkedin profile
   * through email.
+  
+  
+  👀 you can see my certificates in my linkedin profile
+ 
+    
 
 <!---
 adithyajain27/adithyajain27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
