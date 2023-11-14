@@ -27,7 +27,7 @@
   * through email (in my repository)
   
   
-  **👀 you can see my certificates in my l[inkedin profile](https://linkedin.com/in/adithya-jain-m-s)**
+  **👀 you can see my certificates in my [linkedin profile](https://linkedin.com/in/adithya-jain-m-s)**
  
     
 
