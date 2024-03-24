@@ -8,7 +8,7 @@
   * games
   * travelling.
     
-- ✌️i have knowledge about **AGILE SOFTWARE DEVELOPMENT** 
+- ✌️i have knowledge about **AGILE SOFTWARE DEVELOPMENT**  
    
     
 - 🌱 I’m currently learning
